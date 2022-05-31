@@ -24,15 +24,15 @@ We will spend about 5 minutes on each step. If you get lost or something doesn't
 
 7. If you are Tier 2: Make a Pull Request. 
 
- - Click "Pull Request" tab in the horizontal tab list,
- - Click "New Pull Request" green button on right of the screen.
- - Create Pull Request
+     - Click "Pull Request" tab in the horizontal tab list,
+     - Click "New Pull Request" green button on right of the screen.
+     - Create Pull Request
 
 8. If you are Tier 1: Accept & Merge the Pull Requests from Tier 2. 
 
 9. If you are Tier 1: Make a Pull Request. 
 
- - Click "Pull Request" tab in the horizontal tab list,
- - Click "New Pull Request" green button on right of the screen.
- - Create Pull Request
+     - Click "Pull Request" tab in the horizontal tab list,
+     - Click "New Pull Request" green button on right of the screen.
+     - Create Pull Request
 
